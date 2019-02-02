@@ -1,6 +1,6 @@
 
 // Anthony Pitts
-// UNI: aep2195
+
 import java.util.ArrayList;
 import java.util.Collections;
 public class Player {
