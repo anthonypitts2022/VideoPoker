@@ -1,5 +1,4 @@
 Anthony Pitts
-UNI: aep2195
 
                    Video Poker
              
