@@ -1,5 +1,5 @@
 //Anthony Pitts
-//UNI: aep2195
+
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Deck {
