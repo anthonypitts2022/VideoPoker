@@ -75,7 +75,9 @@ public class Game {
                 p.addCard(card);
             }
         }
-	System.out.println(p.getHand());	
+	for(int l=0; l<p.getHand.length; l++){
+		System.out.println(p.getHand().get(l).toString());	
+	}
         checkHand(p.getHand());
         d.resetTop();
         p.resetHand();
