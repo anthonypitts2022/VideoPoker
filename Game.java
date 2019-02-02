@@ -1,5 +1,5 @@
 //Anthony Pitts
-//UNI: aep2195
+
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Game {
