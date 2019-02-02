@@ -1,5 +1,5 @@
 //Anthony Pits
-//UNI: aep2195
+
 
 
 public class Card implements Comparable<Card>{
